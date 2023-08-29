@@ -1,0 +1,15 @@
+{
+    "name": "maxim/design-patterns",
+    "autoload": {
+        "psr-4": {
+            "DesignPatterns\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Maksim Kipa",
+            "email": "m.kipa@webpractik.ru"
+        }
+    ],
+    "require": {}
+}
