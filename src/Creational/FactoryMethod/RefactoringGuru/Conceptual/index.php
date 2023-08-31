@@ -1,6 +1,6 @@
 <?php
 
-namespace FactoryMethod\RefactoringGuru\Conceptual;
+namespace Creational\FactoryMethod\RefactoringGuru\Conceptual;
 
 /**
  * Класс Создатель объявляет фабричный метод, который
